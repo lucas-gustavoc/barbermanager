@@ -9,4 +9,4 @@ Barber Manager is a complete barbershop management software, which has the follo
 - Schedule
 - Inventory Management
 
-The software is written completely in Java, and has an activation key validation system.
+The core is written completely in Java, and has an activation key validation system.
